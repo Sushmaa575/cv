@@ -1,0 +1,38 @@
+*{
+text-align: center;
+}
+.heading{
+color: red;
+    }
+.line{
+border: auto solid black;
+width: 300px;
+margin: auto;
+border-radius: 5px;
+box-shadow: 9px 9px 25;
+background-color: white;
+}
+
+.body{
+background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
